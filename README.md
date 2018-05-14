@@ -1,5 +1,5 @@
 # demographic-prediction
-This app predicts the demographic details of a man's portrait from a given URL. This project was inspired by a Udemy course called Smart-brain.
+This app predicts the demographic details (age, gender, race) of a man's portrait from a given URL. This project was inspired by a Udemy course called Smart-brain.
 
 1. Clone this repo
 2. Run `npm install`
