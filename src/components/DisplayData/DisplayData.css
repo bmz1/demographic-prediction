@@ -1,0 +1,9 @@
+.demographicBox {
+  display: block;
+  box-sizing: border-box;
+
+}
+
+.ddw {
+  max-width: 18rem;
+}
